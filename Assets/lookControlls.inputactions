@@ -1,0 +1,33 @@
+{
+    "name": "lookControlls",
+    "maps": [
+        {
+            "name": "Controller",
+            "id": "1bd3a533-7bc8-4666-8c82-7ab8dfd4a7a7",
+            "actions": [
+                {
+                    "name": "rightStick",
+                    "type": "PassThrough",
+                    "id": "b9cb8fbf-3065-4f29-aa5b-a9f999be3c32",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "e07239ac-fb55-4bef-978b-b4330a4253f0",
+                    "path": "<Gamepad>/rightStick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "rightStick",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
